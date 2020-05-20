@@ -1,0 +1,180 @@
+body {
+	color: black;
+	margin: 0;
+	/* font-family: 'Josefin Slab', serif; */
+	font-family: 'Reem Kufi', sans-serif;
+	font-size: 125%;
+	text-align: center;
+}
+
+.container-fluid{
+	padding: 3% 15%;
+}
+#title{
+	background-color: #5fdde5;
+}
+
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: silver;
+	border-width: 7px;
+	width: 10%
+}
+
+h1 {
+	color: #035aa6;
+	/* padding-top: 10px;
+	margin-bottom: 0; */
+	font-family: 'Permanent Marker', cursive;
+	/* position: relative; */
+	font-size: 4rem;
+	line-height: 1.5;
+}
+
+h2 {
+	color: white;
+	font-family: 'Permanent Marker', cursive;
+
+}
+
+h3 {
+	color: #035aa6;
+	font-family: 'Jost-bold', sans-serif;
+}
+
+p{
+	margin: 0;
+}
+
+/* navbar */
+
+.navbar-brand{
+
+}
+
+/* intro */
+#introduction{
+	padding: 7% 15%;
+}
+
+
+.icon{
+	font-size: 4rem;
+}
+
+.colored-sec {
+  background-color: #035aa6;
+  color: #fff;
+}
+
+.colored-sec2{
+	background-color: #5fdde5;
+	color: #fff;
+}
+
+.location{
+	background-color: ;
+}
+
+.menu{
+	color: #eff3c6;
+}
+
+.top-cont {
+	margin-top: 0px;
+  padding-top: 20px;
+	background-color: #beebe9;
+	position: relative;
+}
+
+.middle-cont{
+}
+
+.bottom-cont{
+	padding-top: 40px;
+	margin-bottom: 80px;
+	margin-top: 30px;
+	padding-bottom: 80px;
+	background-color: #035aa6;
+	position: relative;
+}
+
+.header{
+	margin: 0px 10px 10px 70px;
+	text-align: right;
+	line-height: 2;
+	position: relative;
+}
+
+.logo{
+	float: left;
+	width: 75px;
+  height: 75px;
+	position: relative;
+	border-color: gold;
+	border-style: solid;
+  border-width: 5px;
+  border-radius: 100%;
+}
+
+.footer{
+	line-height: 2;
+	color: black;
+}
+
+.menu{
+	color:#035aa6;
+}
+a:link{
+    text-decoration: none;
+    color: #00a1ab;
+}
+a:hover {
+    color: dodgerblue;
+}
+
+a:active{
+    color: #beebe9;
+}
+
+.menu-link{
+		font-size: 18px;
+}
+
+.footer-link{
+	 text-decoration: none;
+	 color: black;
+}
+
+.form{
+
+	width: 75%;
+	margin: 30px auto 50px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.judulhub{
+	position: relative;
+	margin-top: 25px;
+  margin-bottom: 0px;
+  margin-left: 50px;
+  margin-right: 50px;
+	text-align: center;
+  font-size: 130%;
+
+}
+
+
+#subtitle{
+	font-weight: bold;
+}
+
+#footer-line{
+	border-style: none;
+	border-top-style: solid;
+	border-color: silver;
+	border-width: 2px;
+	width: 300px;
+}
